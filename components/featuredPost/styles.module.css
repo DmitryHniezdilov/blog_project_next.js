@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+}
+
+.cardDetails {
+    flex: 1;
+}
+
+.cardMedia {
+    width: 160px;
+    font-size: 0;
+    position: relative;
+}
+
+.cardMediaImg {
+    height: 100%;
+}

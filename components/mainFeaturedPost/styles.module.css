@@ -1,0 +1,21 @@
+.mainFeaturedPost {
+    position:               relative;
+    background-color:       grey;
+    color:                  white;
+    margin-bottom:          24px;
+}
+
+.overlay {
+    position:           absolute;
+    top:                0;
+    bottom:             0;
+    right:              0;
+    left:               0;
+    background-color:   rgba(0,0,0,.3);
+}
+
+.mainFeaturedPostContent {
+    position: relative;
+    padding: 16px;
+    color: #fff;
+}

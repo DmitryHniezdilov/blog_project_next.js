@@ -1,0 +1,10 @@
+.toolbarSecondary {
+    background-color: white;
+    justify-content:  space-around;
+    overflow-x:       auto;
+}
+
+.toolbarLink {
+    padding:        8px;
+    flex-shrink:    0;
+}
