@@ -25,7 +25,7 @@ const Index = () => {
           </Typography>
           <IconButton
             component = { Link }
-            href = '#'
+            href = 'https://github.com/DmitryHniezdilov/blog_project_next.js'
             rel = 'noreferrer'
             size = 'small'
             style = {{color: '#d1d5da'}}
