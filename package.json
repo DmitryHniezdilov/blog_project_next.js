@@ -11,6 +11,7 @@
     "@material-ui/icons": "^4.11.2",
     "clsx": "^1.1.1",
     "next": "latest",
+    "nprogress": "^0.2.0",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",

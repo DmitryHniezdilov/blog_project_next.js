@@ -11,6 +11,7 @@ const PageLayout = ({children, keywords}) => {
             <Head>
                 <meta keywords={"Test Blog on Next.js" + keywords}></meta>
                 <title>Test Blog on Next.js</title>
+                <link rel="stylesheet" type="text/css" href="/nprogress.css" />
             </Head>
             <Box
                 className = { styles.pageLayout }>
